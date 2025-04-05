@@ -1,0 +1,171 @@
+@media(max-width:600px){
+    .topbar{
+        display: none;
+    }
+    
+    .container{
+        width: 90%;
+        margin: auto;
+     }
+    .logo{
+        width: 100%;
+        text-align: center;
+        padding: 0%;
+        padding-top: 15px;
+     }
+     nav{
+        width:100%; 
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+     }
+     nav ul li{
+        display:inline-block;
+        padding: 5px;
+        
+     }
+     header{
+        background-color: white;
+        padding-bottom:0px;
+        position:static;
+     }
+     .main img{
+        width: 100%;
+     }
+     
+    .aboutcontent{
+        width: 100%;
+        padding: 20px;
+        margin-left: 40px;
+    }
+    .aboutcontent p{
+      text-align: justify;
+    }
+    .about img{
+       width:100%;
+       padding-left: 90px;
+    }
+    .courses{
+      text-align: center;
+      width: 100%;
+      margin-left: 10px;
+    }
+   .course figure img{
+         width:120px;
+         height: 120px;
+      }
+      .course figcaption{
+         font-size: 15px;
+      }
+      
+
+      .batch{
+         width: 100%;
+         overflow: scroll;
+      }
+      table{
+         width: 100%;
+         margin: 22px;
+         
+      }
+      table tr{
+         width: 100%;
+         height: 50px;
+         padding: 0px;
+      }
+
+      .models{
+         width: 100%;
+      }
+
+      .model figure p{
+         width: 35%;
+         font-size: 14px;
+         padding: 0px;
+      }
+      figure img{
+         width:50%;
+         height: 20%;
+      }
+      .choose{
+         width: 100%;
+         margin-left: 20px;
+      }
+      .media{
+         width: 50%;
+         text-align: start;
+         padding: 30px;
+      }
+      .media p{
+         font-size:15px;
+      }
+      .follower{
+         display: none;
+      }
+
+      .placements{
+         width: 100%;
+      }
+
+      .placement figure img{
+         height: 150px;
+         width: 125px;
+         padding: 5px;
+         margin-left: 10px;
+      }
+       
+      .approachs{
+         width: 100%;
+         height: auto;
+         
+      }
+      
+      .approachs h1{
+         font-size:30px;
+      }
+      .approach figure{
+         width:150px;
+         margin: 10px; 
+      }
+
+      .approach figure img{
+         width:250px;
+         margin: 30px;
+      
+      }
+      .approach figcaption{
+         font-size:20px;
+         text-align: center;
+         padding-left: 35px;
+
+      }
+      .places{
+         width: 100%;
+      }
+    .places h1{
+      font-size: 20px;
+    }
+      
+      .place button{
+         width: 80px;
+         margin: 5px;
+         
+         
+      }
+      .social button{
+         width: 150px;
+         height: 50px;
+         border: none;
+         background-color: green;
+         color: white;
+         bottom: 50px;
+         right: 50px;
+         
+      }
+      
+      }
+   
+   
+   
+   
